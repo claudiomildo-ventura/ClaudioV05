@@ -1,7 +1,5 @@
 # Claudiomildo Ventura
 
-## What I Deliver
-
 • Drive technical leadership that aligns engineering excellence with strategic business outcomes.  
 • Build, scale, and empower engineering teams to achieve measurable, consistent, and high-impact results.  
 • Design robust, secure, and high-performance systems built for scalability, maintainability, and long-term value.
