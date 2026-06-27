@@ -1,20 +1,22 @@
-
 # Claudiomildo Ventura
 
-## 🚀 What I Deliver
-  
-• Strong technical leadership that connects engineering excellence with strategic business outcomes.  
-• Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.  
-• Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.
+## What I Deliver
 
-## Academic
+• Drive technical leadership that aligns engineering excellence with strategic business outcomes.  
+• Build, scale, and empower engineering teams to achieve measurable, consistent, and high-impact results.  
+• Design robust, secure, and high-performance systems built for scalability, maintainability, and long-term value.
 
-• Postgraduate studies in **Cloud Computing**, **Data Security**, and **Technology**.  
-• **MBA** focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.
+## Academic Background
 
-## Multilingual Capabilities
+• MBA in Project Management, combining leadership, strategic execution, and business-oriented delivery.  
+• Postgraduate studies in Cloud Computing, Data Security, and Technology.  
+• Bachelor’s Degree in Information Systems.
 
-• Fluent in **English**, **Spanish**, and **Portuguese** enabling seamless communication in global, multicultural engineering environments.
+## Languages
+
+• Portuguese — Native  
+• English — Fluent  
+• Spanish — Fluent
 
 ## Technologies
 
@@ -22,8 +24,6 @@
 
 ## Contact
 
-<div align="left">
-  <a href="mailto:claudiomildo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
-  <a href="mailto:claudiomildo@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"> </a>
-  <a href="https://www.linkedin.com/in/claudiomildo-ventura/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiomildo@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:claudiomildo@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiomildo-ventura/)
