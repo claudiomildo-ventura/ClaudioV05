@@ -12,9 +12,9 @@
 
 ## Languages
 
-• Portuguese — Native  
-• English — Fluent  
-• Spanish — Fluent
+• English — Fluent (C1 / C2) .
+• Spanish — Fluent (C1).
+• Portuguese — Native.
 
 ## Technologies
 
