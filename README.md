@@ -7,15 +7,15 @@
 
 ## Academic Background
 
-- MBA in Project Management, combining leadership, strategic execution, and business-oriented delivery.  
-- Postgraduate studies in Cloud Computing, Data Security, and Technology.  
-- Bachelor’s degree in information systems.
+- **MBA in Project Management, combining leadership, strategic execution, and business-oriented delivery**.  
+- **Postgraduate studies in Cloud Computing, Data Security, and Technology**.  
+- **Bachelor’s degree in information systems**.
 
 ## Languages
 
-• English — Fluent.
-• Spanish — Fluent.
-• Korean — Professional working proficiency.
+- **English** — Fluent.
+- **Spanish** — Fluent.
+- **Korean** — Professional working proficiency.
 
 ## Technologies
 
