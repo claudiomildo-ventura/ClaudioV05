@@ -8,8 +8,8 @@
 ## Academic Background
 
 - MBA in Project Management, combining leadership, strategic execution, and business-oriented delivery.  
-• Postgraduate studies in Cloud Computing, Data Security, and Technology.  
-• Bachelor’s Degree in Information Systems.
+- Postgraduate studies in Cloud Computing, Data Security, and Technology.  
+- Bachelor’s degree in information systems.
 
 ## Languages
 
