@@ -1,8 +1,10 @@
 # Claudiomildo Ventura
 
-• Drive technical leadership that aligns engineering excellence with strategic business outcomes.  
-• Build, scale, and empower engineering teams to achieve measurable, consistent, and high-impact results.  
-• Design robust, secure, and high-performance systems built for scalability, maintainability, and long-term value.
+
+- **Lead end-to-end technology delivery**, aligning engineering excellence, business priorities, and strategic outcomes.
+- **Build, scale, and empower** high-performing, cross-functional teams to deliver measurable, consistent, and high-impact results.
+- **Drive execution and stakeholder alignment** by managing priorities, risks, dependencies, and delivery expectations.
+- **Guide the design and delivery** of robust, secure, and high-performance systems built for scalability, maintainability, and long-term value.
 
 ## Academic Background
 
@@ -12,9 +14,9 @@
 
 ## Languages
 
-• English — Fluent (C1 / C2) .
-• Spanish — Fluent (C1).
-• Portuguese — Native.
+• English — Fluent.
+• Spanish — Fluent.
+• Korean — Professional working proficiency.
 
 ## Technologies
 
