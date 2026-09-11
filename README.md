@@ -1,6 +1,5 @@
 # Claudiomildo Ventura
 
-
 - **Lead end-to-end technology delivery**, aligning engineering excellence, business priorities, and strategic outcomes.
 - **Build, scale, and empower** high-performing, cross-functional teams to deliver measurable, consistent, and high-impact results.
 - **Drive execution and stakeholder alignment** by managing priorities, risks, dependencies, and delivery expectations.
@@ -8,7 +7,7 @@
 
 ## Academic Background
 
-• MBA in Project Management, combining leadership, strategic execution, and business-oriented delivery.  
+- MBA in Project Management, combining leadership, strategic execution, and business-oriented delivery.  
 • Postgraduate studies in Cloud Computing, Data Security, and Technology.  
 • Bachelor’s Degree in Information Systems.
 
